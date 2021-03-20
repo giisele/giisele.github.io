@@ -1,73 +1,45 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Redressed&display=swap" rel="stylesheet">
-    <style>
-        #name {
-            font-family: Redressed;
-            font-size: 25px;
-        }
-        #description {
-            font-family: Montserrat;
-        }
-        .crochet {
-            font-size: 120%;
-        }
-        .tricot {
-            font-size: 150%;
-        }
-        .html {
-            font-size: 180%;
-        }
-        .css {
-            font-size: 210%;
-        }
-        .js {
-            font-size: 240%;
-        }
-        .english {
-            font-size: 270%;
-        }
-        body {
-            background-color: #596F62;
-        }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&family=Sofia&effect=emboss|neon|outline|shadow-multiple|anaglyph&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Sofia&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Portfólio</title>
 </head>
+
 <body>
-    <h1>Bem-vindo ao meu Portfólio!</h1>
+    <div class="name font-effect-shadow-multiple">Gisele Barres Costa</div>
 
-    <p><strong>Links da página</strong>:
-        <ul>
-            <li><a href="#pic">Minha foto</a></li>
-            <li><a href="#description">Descrição</a></li>
-            <li><a href="#habilities">Minhas habilidades</a></li>
-            <li><a href="#blog">Meu blog favorito</a></li>
-        </ul>
-    </p>
+    <div class="header"><div><img src="images/gisele.jpg" alt="Menina com cabelo rosa,olhos fechados, sorrindo, usando uma blusa de manga comprida em frente à um rio" class="photo" id="photo"></div>
+    
+    <div><h2 class="description" id="description">Descrição</h2>
 
-    <img src="fotos/eu.jpg" width="300px" alt="Menina com cabelo cacheado e tatuagens usando uma blusa de alcinha" width="400px" id="pic">
-    <br><br><br><br><br>
-    <h2 id="description">Descrição</h2>
-
-    <p><strong>Nome</strong>: <span id="name">Gisele Barres Costa</span></p>
-
-    <p><em>Brasileira</em> de 32 anos, nascida e criada em <em>Campinas/SP</em>. Gosto muito de <strong>aprender</strong> novas coisas, não só relacionadas à programação, mas também novas línguas, culturas e qualquer coisa relacionada à arte, principalmente adoro crochê e tricô. Sou tímida, mas quando fico à vontade falo bastante, sou muito curiosa e gosto de sair da minha zona de conforto, mesmo sendo uma experiência um tanto assustadora em alguns momentos.</p>
-    <br><br><br>
-    <h2 id="habilities">Lista de habilidades</h2>
+    <em>Brasileira</em> de 32 anos, nascida e criada em <em>Campinas/SP</em>. Gosto muito de <strong>aprender</strong> novas coisas, não só relacionadas à programação, mas também novas línguas, culturas e qualquer coisa relacionada à arte, principalmente adoro crochê e tricô. Sou tímida, mas quando fico à vontade falo bastante, sou muito curiosa e gosto de sair da minha zona de conforto, mesmo sendo uma experiência um tanto assustadora em alguns momentos.</div></div>
+    
+    <div class="habilities margin"><h2 id="habilities">Lista de habilidades</h2>
     <ul>
-        <li class="crochet"><strong>Crochê</strong></li>
+        <li class="crochet">Crochê</li>
         <li class="tricot">Tricô</li>
         <li class="html">HTML</li>
         <li class="css">CSS</li>
         <li class="js">Javascript</li>
         <li class="english">Inglês</li>
-    </ul>
-    <br><br><br>
-    <h2 id="blog">Meu blog favorito</h2>
-    <a href="https://blog.betrybe.com/" target="_blank">Blog da Trybe</a><br><br><br>
+    </ul></div>
+    
+    <div class="margin"> <h2> <strong>Links da página</strong></h2>
+        <ul>
+            <li><a href="#photo">Minha foto</a></li>
+            <li><a href="#description">Descrição</a></li>
+            <li><a href="#habilities">Minhas habilidades</a></li>
+        </ul>
+    </div>
+
+    <div class="margin"><h2 id="blog">Meu blog favorito</h2>
+    <a href="https://blog.betrybe.com/" target="_blank">Blog da Trybe</a> </div>
 
 </body>
 </html>

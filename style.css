@@ -1,0 +1,51 @@
+* {
+    background-color: #042423;
+    color: #bcf5f4;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: Quicksand;
+}
+
+.name {
+    font-family: Sofia;
+    font-size: 40px;
+    text-align: center;
+    margin: 1em;
+    /* text-shadow: 2px 2px 5px yellow; */
+}
+
+.crochet {
+    font-weight: bolder;
+}
+
+.header {
+    max-width: 1100px;
+}
+
+.photo {
+    border-radius: 50%;
+    width: 150px;
+    float:left;
+    margin:1em;
+    padding: 5px;
+    background-color: black;
+    border-style: dotted;
+}
+
+div.habilities li:nth-of-type(odd){
+    color: red;
+}
+
+div.margin {
+    margin-left: 8em;
+}
+
+div {
+    margin: 4em;
+}
+
+a {
+    color: #bcf5f4;
+}
