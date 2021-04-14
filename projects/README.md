@@ -13,8 +13,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] _[Lessons Learned]()_
 - [x] _[Playground Functions]()_
 - [x] _[Arte com Pixels]()_
-- [ ] _[Lista de tarefas]()_
-- [ ] _[(Bônus) Meme Generator]()_
+- [x] _[Lista de tarefas]()_
+- [x] _[(Bônus) Meme Generator]()_
 - [ ] _[(Bônus) Adivinhe a Cor]()_
 - [ ] _[(Bônus) Carta Misteriosa]()_
 - [ ] _[Página inicial do Facebook]()_
