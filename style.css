@@ -1,18 +1,11 @@
 body {
   box-sizing: border-box;
-  background-color: aquamarine;
+  background-color: rgba(4,15,15,1);
   background-image: linear-gradient( rgba(23,87,86,1), rgba(4,15,15,1));
   color: #bcf5f4;
   font-family: Quicksand;
   font-size: 1.5em;
   margin: 5% 10%;
-  /* background-color: #042423; */
-}
-
-@media screen and (max-width: 600px) {
-  body {
-    font-size: 1.75em;
-  }
 }
 
 header {
@@ -23,7 +16,7 @@ header {
 
 .name {
     font-family: Sofia;
-    font-size: 60px;
+    font-size: 5rem;
     color: darkturquoise;
     text-shadow: 2px 2px 2px black, 0 0 25px white, 0 0 5px blue;
     margin-left: 30px;
@@ -35,14 +28,12 @@ header {
 }
 
 #aboutme {
-  margin: 50px 0;
+  margin: 80px 0;
 }
 
 .mind {
   padding-left: 20px;
-  font-family: Caveat;
   font-weight: 500;
-  font-size: 1.25em;
 }
 
 .photo {
@@ -51,14 +42,14 @@ header {
   border-style: dotted;
   padding: 5px;
   width: 150px;
-  float:left;
-  margin:1em;
+  float: left;
+  margin: 1em;
   margin-right: 20px;
   margin-bottom: 20px;
 }
 
 #projects {
-  margin: 50px 0;
+  margin: 80px 0;
 }
 
 #projects ul {
@@ -102,4 +93,14 @@ footer i {
   display: inline-block;
   font-size: 20px;
   margin: 10px;
+}
+
+@media screen and (max-width: 680px) {
+  body {
+    font-size: 1.75em;
+  }
+
+  .heart {
+    display: none;
+  }
 }
