@@ -4,7 +4,7 @@ body {
   background-image: linear-gradient( rgba(23,87,86,1), rgba(4,15,15,1));
   color: #bcf5f4;
   font-family: Quicksand;
-  font-size: 1.5em;
+  font-size: 1.25em;
   margin: 5% 10%;
 }
 
@@ -62,7 +62,6 @@ a {
 }
 
 h2 {
-  font-family: Quicksand;
   font-variant: small-caps;
   color: cyan;
 }
@@ -95,7 +94,7 @@ footer i {
   margin: 10px;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 480px) {
   body {
     font-size: 1.75em;
   }
