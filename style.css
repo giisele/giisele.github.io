@@ -4,9 +4,15 @@ body {
   background-image: linear-gradient( rgba(23,87,86,1), rgba(4,15,15,1));
   color: #bcf5f4;
   font-family: Quicksand;
-  font-size: 1.25em;
+  font-size: 1.5em;
   margin: 5% 10%;
   /* background-color: #042423; */
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1.75em;
+  }
 }
 
 header {
@@ -73,7 +79,7 @@ h2 {
 footer {
   text-align: center;
   color: darkred;
-  border-top: 1px dashed darkred;
+  border-top: 2px dashed darkred;
   margin-bottom: 10px;
 }
 
