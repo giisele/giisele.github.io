@@ -17,9 +17,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] _[(Bônus) Carta Misteriosa]()_
 - [x] _[Trybewarts](https://giisele.github.io/projects/6_trybewarts)_
 - [x] _[JavaScript Testes Unitários](https://giisele.github.io/projects/7_js_testes_unitarios)_
-- [ ] _[Zoo functions]()_
-- [ ] _[Carrinho de Compras]()_
-- [ ] _[Jest Assíncrono e Mocking]()_
+- [x] _[Zoo functions](https://giisele.github.io/projects/8_zoo_functions)_
+- [x] _[Carrinho de Compras](https://giisele.github.io/projects/9_shopping_cart)_
+- [x] _[Jest Assíncrono e Mocking](https://giisele.github.io/projects/10_jest)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
