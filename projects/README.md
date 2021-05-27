@@ -8,22 +8,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ## Introdução - Desenvolvimento Web :white_check_mark:
 
-- [x] _[Lessons Learned](https://giisele.github.io/projects/3_lessons_learned)_
-- [x] _[Playground Functions](https://giisele.github.io/projects/4_playground_functions)_
-- [x] _[Arte com Pixels](https://giisele.github.io/projects/5.1_pixels_art)_
-- [x] _[Lista de tarefas](https://giisele.github.io/projects/5.2_todo_list)_
-- [x] _[(Bônus) Meme Generator](https://giisele.github.io/projects/5.3_meme_generator)_
+- [x] _[Lessons Learned](https://giisele.github.io/projects/03_lessons_learned)_
+- [x] _[Playground Functions](https://giisele.github.io/projects/04_playground_functions)_
+- [x] _[Arte com Pixels](https://giisele.github.io/projects/05.1_pixels_art)_
+- [x] _[Lista de tarefas](https://giisele.github.io/projects/05.2_todo_list)_
+- [x] _[(Bônus) Meme Generator](https://giisele.github.io/projects/05.3_meme_generator)_
 - [ ] _[(Bônus) Adivinhe a Cor]()_
 - [ ] _[(Bônus) Carta Misteriosa]()_
-- [x] _[Trybewarts](https://giisele.github.io/projects/6_trybewarts)_
-- [x] _[JavaScript Testes Unitários](https://giisele.github.io/projects/7_js_testes_unitarios)_
-- [x] _[Zoo functions](https://giisele.github.io/projects/8_zoo_functions)_
-- [x] _[Carrinho de Compras](https://giisele.github.io/projects/9_shopping_cart)_
+- [x] _[Trybewarts](https://giisele.github.io/projects/06_trybewarts)_
+- [x] _[JavaScript Testes Unitários](https://giisele.github.io/projects/07_js_testes_unitarios)_
+- [x] _[Zoo functions](https://giisele.github.io/projects/08_zoo_functions)_
+- [x] _[Carrinho de Compras](https://giisele.github.io/projects/09_shopping_cart)_
 - [x] _[Jest Assíncrono e Mocking](https://giisele.github.io/projects/10_jest)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-- [ ] _[Movie Cards Library]()_
+- [x] _[Movie Cards Library](https://giisele.github.io/projects/11_movie_cards_library)_
 - [ ] _[Movie Cards Library Stateful]()_
 - [ ] _[Movie Cards Library CRUD]()_
 - [ ] _[Frontend Online Store]()_
