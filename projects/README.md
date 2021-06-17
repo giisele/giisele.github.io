@@ -24,9 +24,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 - [x] _[Movie Cards Library](https://giisele.github.io/projects/11_movie_cards_library)_
-- [ ] _[Movie Cards Library Stateful]()_
-- [ ] _[Movie Cards Library CRUD]()_
-- [ ] _[Frontend Online Store]()_
+- [x] _[Movie Cards Library Stateful]()_
+- [x] _[Movie Cards Library CRUD]()_
+- [x] _[Frontend Online Store]()_
 - [ ] _[Testes em React]()_
 - [ ] _[Trybe Wallet]()_
 - [ ] _[Jogo de Trivia]()_
